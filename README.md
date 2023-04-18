@@ -5,13 +5,13 @@
   - Alamat              : Kampung Bowongkulu
   - Tempat,Tgl Lahir    : Bowongkulu,23 Februari 2003
   - Jenis Kelamin       : Perempuan
-  - Status              : Lanjang
+  - Status              : Pelajar/Mahasiswa
   - Email               : tasinfirmalasari@gmail.com
   - Nomor Hp            : 082271######
   
 ## Eduction:
 
-### 1. [Politekniki Negeri Nusa Utara] | Sistem Unformasi | Manganitu '2021-Sekarang'
+### 1. [Politeknik Negeri Nusa Utara] | Sistem Unformasi | Manganitu '2021-Sekarang'
 
 ### 2. [SMKs Muh Naha] | TKJ | Naha 1 '2019-2021'
 
