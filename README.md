@@ -11,7 +11,7 @@
   
 ## Eduction:
 
-### 1. [Politeknik Negeri Nusa Utara] | Sistem Unformasi | Manganitu '2021-Sekarang'
+### 1. [Politeknik Negeri Nusa Utara] | Sistem Informasi | Manganitu '2021-Sekarang'
 
 ### 2. [SMKs Muh Naha] | TKJ | Naha 1 '2019-2021'
 
