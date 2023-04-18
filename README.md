@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there,I'm firma
 
-<!--
-**Firmatasin25/Firmatasin25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ## About me:
+  - Nama                : Firma Lasari Tasin
+  - Alamat              : Kampung Bowongkulu
+  - Tempat,Tgl Lahir    : Bowongkulu,23 Februari 2003
+  - Jenis Kelamin       : Perempuan
+  - Status              : Lanjang
+  - Email               : tasinfirmalasari@gmail.com
+  - Nomor Hp            : 082271######
+  
+## Eduction:
 
-Here are some ideas to get you started:
+### 1. [Politekniki Negeri Nusa Utara] | Sistem Unformasi | Manganitu '2021-Sekarang'
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 2. [SMKs Muh Naha] | TKJ | Naha 1 '2019-2021'
+
+
+<br />
+<br />
+
